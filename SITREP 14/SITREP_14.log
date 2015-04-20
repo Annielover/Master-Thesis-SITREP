@@ -1,0 +1,521 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.6)  7 APR 2015 22:45
+entering extended mode
+**C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP*14/SITREP_14.tex
+("C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/SITREP_14.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\latex\babel-english\english.ld
+f
+Language: english 2012/08/20 v3.3p English support from the babel system
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption2.sty
+Package: caption2 2013/02/03 v2.2-62 Customising captions (AR)
+
+
+Package caption2 Warning: ****************************************************
+(caption2)                THIS PACKAGE IS OBSOLETE:
+(caption2)                This package attempts to provide an `caption2'
+(caption2)                package v2.0/2.1 author environment so that OLD
+(caption2)                documents can be successfully processed. It should
+(caption2)                NOT be used for NEW documents! New documents should
+(caption2)                use the regular `caption' package v3.x instead.
+(caption2)                ****************************************************
+
+(C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen106
+\captionmargin@=\dimen107
+\captionwidth=\dimen108
+\caption@tempdima=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
+e 215.
+\captionlinewidth=\dimen113
+\realcaptionwidth=\dimen114
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))))
+\c@section@level=\count89
+LaTeX Info: Redefining \ref on input line 353.
+LaTeX Info: Redefining \pageref on input line 353.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package hobsub Info: Skipping package `refcount' (already loaded).
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen115
+\Hy@linkcounter=\count90
+\Hy@pagecounter=\count91
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count93
+
+(C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen116
+\Fld@menulength=\count94
+\Field@Width=\dimen117
+\Fld@charsize=\dimen118
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count95
+\c@Item=\count96
+\c@Hfootnote=\count97
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count98
+\c@bookmark@seq@number=\count99
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 14.
+
+("C:\Users\Laurent\Dropbox\School\Master\Thesis\SITREP\SITREP 14\SITREP_14.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (C:\Users\Laurent\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen119
+\scratchbox=\box26
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen120
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks16
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box27
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+Package hyperref Info: Link coloring ON on input line 20.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+("C:\Users\Laurent\Dropbox\School\Master\Thesis\SITREP\SITREP 14\SITREP_14.out"
+) ("C:\Users\Laurent\Dropbox\School\Master\Thesis\SITREP\SITREP 14\SITREP_14.ou
+t")
+\@outlinefile=\write3
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 37.
+
+<BitLocker_1.png, id=4, 278.54062pt x 316.18124pt>
+File: BitLocker_1.png Graphic file (type png)
+ <use BitLocker_1.png>
+Package pdftex.def Info: BitLocker_1.png used on input line 40.
+(pdftex.def)             Requested size: 278.53993pt x 316.18047pt.
+
+<BitLocker_2.png, id=5, 526.21594pt x 249.93375pt>
+File: BitLocker_2.png Graphic file (type png)
+ <use BitLocker_2.png>
+Package pdftex.def Info: BitLocker_2.png used on input line 46.
+(pdftex.def)             Requested size: 452.9679pt x 215.15239pt.
+
+<BitLocker_4.png, id=7, 775.39688pt x 144.54pt>
+File: BitLocker_4.png Graphic file (type png)
+ <use BitLocker_4.png>
+Package pdftex.def Info: BitLocker_4.png used on input line 52.
+(pdftex.def)             Requested size: 452.9679pt x 84.43755pt.
+
+<BitLocker_5.png, id=8, 625.58719pt x 35.38219pt>
+File: BitLocker_5.png Graphic file (type png)
+ <use BitLocker_5.png>
+Package pdftex.def Info: BitLocker_5.png used on input line 58.
+(pdftex.def)             Requested size: 452.9679pt x 25.61983pt.
+
+<BitLocker_6.png, id=9, 600.74437pt x 452.4403pt>
+File: BitLocker_6.png Graphic file (type png)
+ <use BitLocker_6.png>
+Package pdftex.def Info: BitLocker_6.png used on input line 64.
+(pdftex.def)             Requested size: 452.9679pt x 341.15196pt.
+
+<BitLocker_7.png, id=10, 784.43062pt x 660.21657pt>
+File: BitLocker_7.png Graphic file (type png)
+ <use BitLocker_7.png>
+Package pdftex.def Info: BitLocker_7.png used on input line 70.
+(pdftex.def)             Requested size: 452.9679pt x 381.2435pt.
+
+<BitLocker_8.png, id=11, 782.17218pt x 283.0575pt>
+File: BitLocker_8.png Graphic file (type png)
+ <use BitLocker_8.png>
+Package pdftex.def Info: BitLocker_8.png used on input line 76.
+(pdftex.def)             Requested size: 452.9679pt x 163.92294pt.
+
+<BitLocker_9.png, id=12, 477.28313pt x 389.20406pt>
+File: BitLocker_9.png Graphic file (type png)
+ <use BitLocker_9.png>
+Package pdftex.def Info: BitLocker_9.png used on input line 82.
+(pdftex.def)             Requested size: 385.02547pt x 313.9708pt.
+
+<BitLocker_10.png, id=13, 195.73125pt x 50.43843pt>
+File: BitLocker_10.png Graphic file (type png)
+ <use BitLocker_10.png>
+Package pdftex.def Info: BitLocker_10.png used on input line 88.
+(pdftex.def)             Requested size: 195.73076pt x 50.4383pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--91
+
+ []
+
+[1
+
+{C:/Users/Laurent/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2 <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/BitLocker_1.
+png> <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/BitLocker_
+2.png>] [3 <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/BitL
+ocker_4.png> <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/Bi
+tLocker_5.png> <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/
+BitLocker_6.png>] [4 <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITR
+EP 14/BitLocker_7.png> <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SI
+TREP 14/BitLocker_8.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+ [5 <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/BitLocker_9
+.png> <C:/Users/Laurent/Dropbox/School/Master/Thesis/SITREP/SITREP 14/BitLocker
+_10.png>] [6]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+
+("C:\Users\Laurent\Dropbox\School\Master\Thesis\SITREP\SITREP 14\SITREP_14.aux"
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `SITREP_14.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+ ) 
+Here is how much of TeX's memory you used:
+ 6109 strings out of 493921
+ 93344 string characters out of 3147277
+ 175958 words of memory out of 3000000
+ 9323 multiletter control sequences out of 15000+200000
+ 9118 words of font info for 32 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,6n,38p,427b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb>
+Output written on SITREP_14.pdf (6 pages, 211035 bytes).
+PDF statistics:
+ 85 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+

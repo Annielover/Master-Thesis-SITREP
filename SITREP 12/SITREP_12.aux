@@ -1,0 +1,54 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
+\global\let\oldcontentsline\contentsline
+\gdef\contentsline#1#2#3#4{\oldcontentsline{#1}{#2}{#3}}
+\global\let\oldnewlabel\newlabel
+\gdef\newlabel#1#2{\newlabelxx{#1}#2}
+\gdef\newlabelxx#1#2#3#4#5#6{\oldnewlabel{#1}{{#2}{#3}}}
+\AtEndDocument{\ifx\hyper@anchor\@undefined
+\let\contentsline\oldcontentsline
+\let\newlabel\oldnewlabel
+\fi}
+\fi}
+\global\let\hyper@last\relax 
+\gdef\HyperFirstAtBeginDocument#1{#1}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\select@language{USenglish}
+\@writefile{toc}{\select@language{USenglish}}
+\@writefile{lof}{\select@language{USenglish}}
+\@writefile{lot}{\select@language{USenglish}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces The NMAP command as executed on the webserver (atlas, 192.168.1.11).}}{1}{figure.1}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Basic, unfragmented NMAP scanning of a Hyper-V VM (192.168.1.51). The SnortVM has the IP address of 192.168.1.50. Snort reports each attempt to scan a particular port number.}}{2}{figure.2}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces The NMAP stealth, SYN packet command as executed on the webserver (atlas, 192.168.1.11).}}{2}{figure.3}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces The scan for running services from the stealth scan is detected by Snort.}}{3}{figure.4}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces However, this Snort alert indicates that a host reassembling a fragment datagram cannot complete the reassembly due to missing fragments whitin the time limit (60s by default). However, I'm not sure whether this is Snort warning for a fragmented / stealth scan.}}{3}{figure.5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces ICMP ping with large packet size is detected by Snort.}}{3}{figure.6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces OS detection from a NMAP scan is also detected by Snort.}}{3}{figure.7}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces First, I created a rule to actually detect FTP traffic as I plan to DOS attack the FTP server is a later stage. The starting of the FTP service and some FTP traffic are detected by Snort.}}{4}{figure.8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces Successful FTP logins are also detected by Snort (however, this is not a thread and can be disabled by simply comment the rule that triggered the alert.}}{4}{figure.9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Attempting to login as root.}}{4}{figure.10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces FTP root access is successfully detected.}}{5}{figure.11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {12}{\ignorespaces The command to attack the FTP server as seen in Metasploit.}}{5}{figure.12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {13}{\ignorespaces Snort reported the various attacks.}}{6}{figure.13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {14}{\ignorespaces Appearantly, someone tried to SSH scan my Xen server\dots  . This was fortunately detected by Snort.}}{6}{figure.14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {15}{\ignorespaces Metasploit is scanning the network for databases...}}{7}{figure.15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {16}{\ignorespaces ... and this is detected by Snort.}}{7}{figure.16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {17}{\ignorespaces This is captured by Snort.}}{7}{figure.17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {18}{\ignorespaces Also logging in a root is detected by Snort.}}{8}{figure.18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {19}{\ignorespaces The plugin to create the malicious payload.}}{8}{figure.19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {20}{\ignorespaces The actual creation of the malicious payload. The ``LHOST'' stands for Local HOST and indicates that the trojan makes a connection with my (attacking) computer via port 4444.}}{8}{figure.20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {21}{\ignorespaces Preparing the listener for when an unsuspicious user clicks on the file.}}{9}{figure.21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {22}{\ignorespaces A user clicks on the file and a connection between my computer and the victim is established.}}{9}{figure.22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {23}{\ignorespaces Now I can for example browse the hard disk drive of the victim's computer\dots  }}{10}{figure.23}}
+\@writefile{lof}{\contentsline {figure}{\numberline {24}{\ignorespaces \dots  or obtain some network information to prepare for subsequent attacks.}}{11}{figure.24}}
+\@writefile{lof}{\contentsline {figure}{\numberline {25}{\ignorespaces Fortunately, this is detected by Snort.}}{11}{figure.25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {26}{\ignorespaces The FTP server receives a lot of login attemps per second. This way, we hope to flood it and eventually make it go offline.}}{12}{figure.26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {27}{\ignorespaces Snort reacts.}}{12}{figure.27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {28}{\ignorespaces The DOS attack on the webserver in action\dots  }}{13}{figure.28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {29}{\ignorespaces Fortunately, this is detected by Snort.}}{13}{figure.29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {30}{\ignorespaces The apt updating process is seen as a thread by Snort.}}{14}{figure.30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {31}{\ignorespaces Metasploit's updating process is known by Snort\dots  }}{14}{figure.31}}
+\@writefile{lof}{\contentsline {figure}{\numberline {32}{\ignorespaces Downloading an .exe file from the Internet is also seen and reported by Snort.}}{14}{figure.32}}
