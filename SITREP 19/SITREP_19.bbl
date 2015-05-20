@@ -1,0 +1,43 @@
+\begin{thebibliography}{}
+
+\bibitem[Acunetix, 2015]{CSRF2}
+Acunetix (2015).
+\newblock Csrf attacks, xsrf or sea-surf – what they are and how to defend
+  against them.
+\newblock {\em https://www.acunetix.com/websitesecurity/csrf-attacks/}.
+\newblock Retrieved on May 18, 2015.
+
+\bibitem[Auger, 2010]{CSRF}
+Auger, R. (2010).
+\newblock The cross-site request forgery (csrf/xsrf) faq.
+\newblock {\em http://www.cgisecurity.com/csrf-faq.html}.
+\newblock Retrieved on May 18, 2015.
+
+\bibitem[Gafvert, 2006]{hostheader2}
+Gafvert, K. (2006).
+\newblock Understanding host headers in iis.
+\newblock {\em
+  http://www.it-notebook.org/iis/article/understanding\_host\_headers.htm}.
+\newblock Retrieved on May 18, 2015.
+
+\bibitem[Hartikainen, 2008]{CSRF3}
+Hartikainen, J. (2008).
+\newblock How to protect all your forms.
+\newblock {\em
+  http://codeutopia.net/blog/2008/10/16/how-to-csrf-protect-all-your-forms/}.
+\newblock Retrieved on May 18, 2015.
+
+\bibitem[Hutcheson, 1999]{hostheader}
+Hutcheson, M. (1999).
+\newblock What is a host header?
+\newblock {\em http://windowsitpro.com/development/what-host-header}.
+\newblock Retrieved on May 18, 2015.
+
+\bibitem[Kettle, 2013]{hostheader3}
+Kettle, J. (2013).
+\newblock practical http host header attacks.
+\newblock {\em
+  http://www.skeletonscribe.net/2013/05/practical-http-host-header-attacks.html}.
+\newblock Retrieved on May 18, 2015.
+
+\end{thebibliography}

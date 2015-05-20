@@ -1,0 +1,131 @@
+\documentclass[11pt, a4paper]{article}
+\usepackage{fullpage}
+\usepackage[USenglish]{babel}
+\usepackage{graphicx} 
+\usepackage[small,bf,hang]{caption2}
+\usepackage{nameref}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\title{Master Thesis -  Security Aspects in Virtual Networks\\ \textbf{SITREP 17}}
+\author{\textbf{Laurent De Wilde} \\ Master of Science in the Applied Computer Science \\ Vrije Universiteit Brussel}
+\date{April 20, 2015}
+
+\begin{document}
+\maketitle
+
+\section{Infrastructure}
+
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Network.png}
+ \captionof{figure}{Current infrastructure. On the Windows Azure Pack VM, a dedicated MSSQL Server is installed, the SQL Server of the VMM VM is not re-used.}
+\end{minipage}
+
+\section{Work done}
+
+\begin{itemize}
+\item Deployed the Windows Azure Pack on a dedicated VM. Therefore, I performed the following steps: installed IIS, installed some additional Windows Features, installed SCVMM Console, installed Service Provider Foundation, made some changes to the domain, made a certificate, installed MSSQL Server 2012 and finally Windows Azure using the Web Platform Installer.
+\item Created a VM cloud.
+\item Created a private plan. This is done for sakes of completeness. First, I configured some hardware profiles and VM templates in VMM.
+\item Registered myself on the Juniper website to obtain an appliance of their vSRX.
+\end{itemize}
+$\;$ \\ \\
+ \subsection{Deployment of Windows Azure Pack}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Azure_1.png}
+ \captionof{figure}{The installation of Azure has succeeded.}
+\end{minipage}
+$\;$ \\ \\
+\subsection{Creation of the VM cloud}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Azure_2.png}
+ \captionof{figure}{First, the SPF Endpoint Provider must be registered before we can create a VM cloud.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Azure_4.png}
+ \captionof{figure}{The ``Thesiscloud'' in VMM is imported in Azure.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Azure_5.png}
+ \captionof{figure}{A brief overview.}
+\end{minipage}
+\subsection{Creation of the private plan}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_2.png}
+ \captionof{figure}{First, hardware profiles have to be made \ldots}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_3.png}
+ \captionof{figure}{\ldots as well as VM templates.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_1.png}
+ \captionof{figure}{The raw, unconfigured plan.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_4.png}
+ \captionof{figure}{The configuration of the plan - step 1.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_5.png}
+ \captionof{figure}{The configuration of the plan - step 2.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_6.png}
+ \captionof{figure}{The configuration of the plan - step 3.}
+\end{minipage}
+$\;$ \\ \\
+\noindent\begin{minipage}{\textwidth}
+    \centering
+    \includegraphics[width=\textwidth]{Plan_7.png}
+ \captionof{figure}{The configured final plan.}
+\end{minipage}
+
+
+\section*{Planning}
+
+With de vSRX appliance dowloaded, I will begin testing the virtual firewall.
+
+\section*{Problems}
+
+The first time I deployed the Windows Azure Pack, I ran into an issue I could not resolve. So I threw away the VM and started over. This time, the same error occured again, but I was able to resolve it after a long-lasting search in the Event Viewer.
+
+\section*{Issues}
+
+
+
+\section*{Assistance}
+
+While deploying the Windows Azure Pack and creating additional VM's, I ran short of memory, so I had to squeeze down some VM's in order to ensure the deployment of Azure.
+
+However, I already mailed Fei and she will order 16GB of RAM.
+
+
+\end{document}
